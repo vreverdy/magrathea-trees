@@ -1,2 +1,2 @@
-# magrathea-pathfinder-trees
-Trees from the magrathea-pathfinder library
+# magrathea-trees
+Trees from the magrathea library
